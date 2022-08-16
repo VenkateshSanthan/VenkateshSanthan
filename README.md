@@ -14,7 +14,7 @@
 -	Hands On experience with Jenkins tool for achieving the Continuous Integration.
 -	Expertise in Understanding and Analyzing Test Requirements, Tracking changes and maintenance of Test Requirements.
 
-- 📫 How to reach me ...
+- 📫 How to reach me ...teshsg025@gmail.com
 
 <!---
 VenkateshSanthan/VenkateshSanthan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
